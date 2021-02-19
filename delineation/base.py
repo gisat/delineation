@@ -52,5 +52,4 @@ class Config(metaclass=ConfigMeta):
             self.__setattr__(name, value)
 
 
-
 config = Config()
