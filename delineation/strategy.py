@@ -2,6 +2,7 @@ from abc import ABC, abstractmethod
 import numpy as np
 
 
+
 class Strategy:
     """
     Implementation of strategy pattern for the selection of a particular algorithm  base  algorithm short name

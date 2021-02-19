@@ -1,2 +1,1 @@
-{ "algorithm": {"ghsl": "GHSLAlgorithm"},
-  "location":  {"ghsl": "GHSLLocation"}}
+{"algorithm": {"ghsl": "GHSLAlgorithm"}, "location": {"ghsl": "GHSLLocation"}}
